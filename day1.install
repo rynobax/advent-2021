@@ -1,0 +1,11 @@
+lib: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-61e31185\\install/default/lib/day1/META"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-61e31185\\install/default/lib/day1/dune-package"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-61e31185\\install/default/lib/day1/opam"
+]
+bin: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-61e31185\\install/default/bin/day1.exe"
+]
+doc: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-61e31185\\install/default/doc/day1/README.md"
+]

@@ -1,0 +1,10 @@
+{
+  "esy": { "build": [ "dune build -p day1" ] },
+  "dependencies": {
+    "@opam/ocaml-lsp-server": "*",
+    "@opam/ocamlfind-secondary": "*",
+    "@opam/reason": "*",
+    "@reason-native/console": "^0.1.0",
+    "ocaml": "4.10.x"
+  }
+}

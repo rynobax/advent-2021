@@ -1,0 +1,4 @@
+(executable
+ (name day1)
+ (public_name day1)
+ (libraries console.lib))
