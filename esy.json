@@ -1,5 +1,5 @@
 {
-  "esy": { "build": ["dune build -p day2"] },
+  "esy": { "build": ["dune build -p main"] },
   "dependencies": {
     "@opam/ocaml-lsp-server": "*",
     "@opam/ocamlfind-secondary": "*",

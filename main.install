@@ -1,0 +1,13 @@
+lib: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/lib/main/META"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/lib/main/dune-package"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/lib/main/opam"
+]
+bin: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/bin/day1.exe"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/bin/day2.exe"
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/bin/day3.exe"
+]
+doc: [
+  "F:/advent-2021/_esy/default/store/b/advent_2021-9ab9ab43\\install/default/doc/main/README.md"
+]
